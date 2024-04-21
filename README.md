@@ -1,8 +1,8 @@
-Sistema de Gestión de Videojuegos
+# Sistema de Gestión de Videojuegos
 Este es un programa de consola en Java para gestionar un inventario de videojuegos, usuarios y compras. Permite realizar diversas operaciones como agregar nuevos videojuegos, usuarios, realizar compras, entre otros.
 
 ---------------------------------------------------------------------------------------------------------------------
-Funcionalidades
+## Funcionalidades
 El sistema cuenta con las siguientes funcionalidades:
 
 Mostrar lista de videojuegos: Muestra la lista de todos los videojuegos disponibles en el inventario.
@@ -25,19 +25,21 @@ compras.txt: Archivo que registra las compras realizadas.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-Requisitos
+## Requisitos
 Para ejecutar el programa se requiere tener instalado Java Development Kit (JDK) en el sistema.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-Instrucciones de uso
+## Instrucciones de uso
 Clonar este repositorio en su máquina local.
-Compilar los archivos fuente ejecutando el siguiente comando en la terminal:-
+Compilar los archivos fuente ejecutando el siguiente comando en la terminal:
 
 -------------------------------------
     
-javac src/*.java
-
-java -cp src Main
-
+    javac src/*.java  
+    
 ------------------------------------
+
+    java -cp src Main
+
+
