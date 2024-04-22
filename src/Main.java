@@ -53,6 +53,7 @@ public class Main {
             String nombre = scanner.nextLine();
             System.out.print("Introducir nombre de la consola: ");
             String consola = scanner.nextLine();
+
             if (!Videojuegos.nombresValidos.contains(consola)) {
                 throw new IllegalArgumentException("Los nombres válidos son: " + String.join(", ", Videojuegos.nombresValidos));
             }

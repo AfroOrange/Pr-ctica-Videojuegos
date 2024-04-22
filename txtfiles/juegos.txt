@@ -16,3 +16,4 @@ Rust, PC, En venta, 50, 96754
 Sekiro: Shadows Die Twice, Todas, Agotado, 0, 99543
 Super Smash Bros Brawl, Switch, En venta, 20, 34887
 Monster Hunter, Todas, En venta, 49, 22280
+Baldur's Gate 3 , PC, En venta, 40, 77952
