@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a52dba0-b6e5-4fd2-bfd9-2db26958a1e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Alumno.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr-ctica-Videojuegos" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txtfiles/compras.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txtfiles/compras.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/txtfiles/juegos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txtfiles/juegos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

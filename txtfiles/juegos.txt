@@ -6,7 +6,7 @@ Fifa24, Todas, En venta, 200, 59513
 Monster Hunter, Todas, En venta, 50, 22280
 Hollow Knight, Todas, En venta, 30, 19086
 Elden Ring, Todas, En venta, 60, 29687
-Tekken 8, Todas, En venta, 40, 61163
+Tekken 8, Todas, En venta, 39, 61163
 Pokemon Oro, Nintendo, Agotado, 0, 38872
 Pokemon P�rpura, Switch, En venta, 15, 24361
 Call of Duty: Modern Warfare 2, PlayStation, Agotado, 0, 80045
@@ -14,6 +14,6 @@ Battlefield V, Todas, En venta, 20, 26447
 World Of Warcraft, PC, Agotado, 0, 38750
 Rust, PC, En venta, 50, 96754
 Sekiro: Shadows Die Twice, Todas, Agotado, 0, 99543
-Super Smash Bros Brawl, Switch, En venta, 20, 34887
+Super Smash Bros Brawl, Switch, En venta, 19, 34887
 Monster Hunter, Todas, En venta, 49, 22280
-Baldur's Gate 3 , PC, En venta, 40, 77952
+Baldur's Gate 3 , PC, En venta, 39, 77952
